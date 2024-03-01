@@ -1,5 +1,5 @@
 ## ServerClient
-Test task
+Test task: console app, UI app, win-forms, winsock2
 
 ### Задание
 
